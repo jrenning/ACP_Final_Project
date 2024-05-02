@@ -13,12 +13,12 @@ The data collected for this project is stored in the data folder and is separate
 
 ## Equipment Used
 
-Raspberry Pi 4
-PMSA003I
-  Air Quality
-  PM 2.5 +- 10 ug/m^3
-HTU21D-F 
-  Temperature/Humidity
+- Raspberry Pi 4
+- PMSA003I
+  - Air Quality
+  - PM 2.5 +- 10 ug/m^3
+- HTU21D-F 
+  - Temperature/Humidity
 
 ## Running this yourself
 
